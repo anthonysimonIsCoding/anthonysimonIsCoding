@@ -9,7 +9,7 @@ Here are some of the projects I've worked on:
 - [ChinChin GameStore](https://github.com/Chin2109/WEB_II) - Developed the Admin panel with features for managing products, users, invoices, and statistics.
   - **Technologies Used**: HTML, CSS, JS, PHP, PHPMyAdmin
 
-- [QuarantineCamp](https://github.com/Chin2109/QuarantineCamp) - Worked on user management, medication management, and front-end interface for user management in a PHP project focused on advanced SQL handling and managing multiple roles in a hospital.
+- [Quarantine Camp](https://github.com/Chin2109/QuarantineCamp) - Worked on user management, medication management, and front-end interface for user management in a PHP project focused on advanced SQL handling and managing multiple roles in a hospital.
   - **Technologies Used**: HTML, CSS, JS, PHP, SQL Server
 
 - [ChinChin GameStore](https://github.com/Chin2109/CSharp) - Worked on the Admin panel with features for managing users, products, invoices, and statistics. Enhanced the product addition feature with image cropping functionality using C# ASP.NET Core MVC.

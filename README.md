@@ -1,6 +1,6 @@
 # Hi there! I'm Anthony 👋
 
-I'm a developer who loves building things, fixing things, and learning whatever tech makes life easier. Currently diving deep into full-stack work and mobile development.
+I'm a developer who loves building things, fixing things, and learning whatever tech makes life easier. Currently diving deep into full-stack work.
 
 ## 🚀 Projects
 

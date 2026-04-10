@@ -17,10 +17,13 @@ Here are some of the projects I've worked on:
     
 - [Foodfast Delivery](https://github.com/Cgaz275/SGU2025_CNPM_NHOM15) - Working on real-world app flow: authentication, Firestore data, navigation, uploads, and state management.
   - **Stack**: React Native, Expo, Firebase (Auth, Firestore, Storage)
+ 
+- [PetZon Multivendor](https://github.com/anthonysimonIsCoding/BookingSystem) - Built a multivendor pet service booking platform supporting real-world workflows such as authentication, booking management, scheduling, and role-based access.
+  - **Stack**: ASP.NET Core (.NET), React, SQL Server, Entity Framework Core
     
 ## 💻 Skills
 
-- Programming: C#, PHP, JavaScript,Java
+- Programming: .NET, PHP, JavaScript,Java
 - Databases: SQL Server, MySQL, PHPmyadmin, Firebase
 - Web: HTML, CSS, ASP.NET Core MVC
 - Mobile: React Native (Expo)
